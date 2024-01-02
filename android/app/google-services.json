@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "823053636710",
+    "project_id": "englishapp-131c0",
+    "storage_bucket": "englishapp-131c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823053636710:android:306caeaae2900d837b49a7",
+        "android_client_info": {
+          "package_name": "com.vocabulary.english_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFJcGtqjSsCIq6bHoY698hDwCuMa0b02I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      },
+      "admob_app_id": "ca-app-pub-2985335779413735~7860214736"
+    }
+  ],
+  "configuration_version": "1"
+}
